@@ -21,7 +21,7 @@ def third_challenge
         :age => "50"
         },
       :matriarch => {
-        :name => "Lord Montague",
+        :name => "Lady Capulet",
         :age => "53"
         },
       :heroine => {
